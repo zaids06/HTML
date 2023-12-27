@@ -1,0 +1,22 @@
+*{
+    background: black;
+}
+img{
+    border: 5px solid white;
+    width: 100%;
+}
+h1{
+    font-family: "Rubik Maps" ,Arial;
+    color: antiquewhite;
+    font-size: 60px;
+}
+p{
+    color: antiquewhite;
+    font-size: 30px;
+}
+div{
+    width: 50%;
+    height: 50%;
+    margin: 5% 25%;
+    text-align: center;
+}
